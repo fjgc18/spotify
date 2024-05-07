@@ -10,10 +10,11 @@ import java.util.List;
 
 /**
  *
- * @author Christian Gaona
+ * @author francisco
  */
 public class Album {
 
+    // holaaa, prueba
     /**
      * @return the nombre
      */
